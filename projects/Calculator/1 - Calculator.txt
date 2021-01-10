@@ -1,0 +1,17 @@
+
+Using the PyQt5 library, write a calculator app that :
+- has a keypad with all digits (0 - 9)
+- can perform basic mathematical operations ( + - * / )
+- displays the result to the user
+- can clear the input or result
+
+
+Bonus:
+Bonus points will only be attributed if all the basic features above were developped.
+Here are some you can think of:
+- More complex mathematical operations
+- Calculation history
+- A nice custom UI
+- Plotting with Matplotlib
+- ...
+
