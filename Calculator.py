@@ -6,8 +6,6 @@ class MainWindow(qtw.QWidget):
 		self.setWindowTitle("Calculator !")
 		self.setLayout(qtw.QVBoxLayout())
 		self.setUI()
-		self.temp_nums = []
-		self.fin_nums = []
 
 		self.show()
 
